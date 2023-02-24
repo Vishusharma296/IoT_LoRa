@@ -13,7 +13,7 @@
 #include <DHT.h>           // From sensor manufacturer
 
 #define Type DHT11         // Sensor type
-#define BAND      868E6    //ISM band in EU is 868MHz for LoRa
+#define BAND 868E6    //ISM band in EU is 868MHz for LoRa
 
 // Pin assignment
 
@@ -97,7 +97,7 @@ void loop()
   LoRa.beginPacket();
 
   LoRa.setTxPower(14,RF_PACONFIG_PASELECT_PABOOST); // Transmitting at 14dBm
-  // This data packet will be displayed on the LoRa reciever
+  // This data packet will be displayed on the LoRa reciever and sent 
 
   LoRa.print("Node -1- Msg Nr: ");
   LoRa.println(counter);
@@ -120,6 +120,7 @@ void loop()
 
 
   // Printing and Data logging via serial communication:
+  // This data will be recorded in the CSV form when connected to puTTy via USB
 
 
   while(label){
