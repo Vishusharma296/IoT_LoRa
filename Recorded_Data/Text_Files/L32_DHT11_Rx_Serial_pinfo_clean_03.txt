@@ -1,0 +1,4729 @@
+RSSI_dBm: -52
+Psize_byte: 48
+Node -1- Msg Nr: 0
+Temp_C: 24.70
+RH_%: 53.00
+
+
+RSSI_dBm: -60
+Psize_byte: 48
+Node -1- Msg Nr: 1
+Temp_C: 24.70
+RH_%: 53.00
+
+
+RSSI_dBm: -72
+Psize_byte: 48
+Node -1- Msg Nr: 2
+Temp_C: 24.80
+RH_%: 55.00
+
+
+RSSI_dBm: -72
+Psize_byte: 48
+Node -1- Msg Nr: 3
+Temp_C: 24.80
+RH_%: 55.00
+
+
+RSSI_dBm: -71
+Psize_byte: 48
+Node -1- Msg Nr: 4
+Temp_C: 24.60
+RH_%: 53.00
+
+
+RSSI_dBm: -68
+Psize_byte: 48
+Node -1- Msg Nr: 5
+Temp_C: 24.50
+RH_%: 53.00
+
+
+RSSI_dBm: -68
+Psize_byte: 48
+Node -1- Msg Nr: 6
+Temp_C: 24.30
+RH_%: 53.00
+
+
+RSSI_dBm: -70
+Psize_byte: 48
+Node -1- Msg Nr: 7
+Temp_C: 24.10
+RH_%: 53.00
+
+
+RSSI_dBm: -68
+Psize_byte: 48
+Node -1- Msg Nr: 8
+Temp_C: 23.90
+RH_%: 53.00
+
+
+RSSI_dBm: -74
+Psize_byte: 48
+Node -1- Msg Nr: 9
+Temp_C: 23.70
+RH_%: 54.00
+
+
+RSSI_dBm: -67
+Psize_byte: 49
+Node -1- Msg Nr: 10
+Temp_C: 23.50
+RH_%: 54.00
+
+
+RSSI_dBm: -68
+Psize_byte: 49
+Node -1- Msg Nr: 11
+Temp_C: 23.50
+RH_%: 55.00
+
+
+RSSI_dBm: -67
+Psize_byte: 49
+Node -1- Msg Nr: 12
+Temp_C: 23.40
+RH_%: 55.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 13
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 49
+Node -1- Msg Nr: 14
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -70
+Psize_byte: 49
+Node -1- Msg Nr: 15
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 49
+Node -1- Msg Nr: 16
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 49
+Node -1- Msg Nr: 17
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 18
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 19
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 20
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 49
+Node -1- Msg Nr: 21
+Temp_C: 22.80
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 22
+Temp_C: 22.80
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 23
+Temp_C: 22.80
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 24
+Temp_C: 22.80
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 25
+Temp_C: 22.80
+RH_%: 57.00
+
+
+RSSI_dBm: -79
+Psize_byte: 49
+Node -1- Msg Nr: 26
+Temp_C: 22.80
+RH_%: 57.00
+
+
+RSSI_dBm: -87
+Psize_byte: 49
+Node -1- Msg Nr: 27
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -78
+Psize_byte: 49
+Node -1- Msg Nr: 28
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -79
+Psize_byte: 49
+Node -1- Msg Nr: 29
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -71
+Psize_byte: 49
+Node -1- Msg Nr: 30
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -79
+Psize_byte: 49
+Node -1- Msg Nr: 31
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 32
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -75
+Psize_byte: 49
+Node -1- Msg Nr: 33
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 34
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 49
+Node -1- Msg Nr: 35
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -67
+Psize_byte: 49
+Node -1- Msg Nr: 36
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 37
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 38
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 39
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 40
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 41
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 42
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 43
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 44
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 49
+Node -1- Msg Nr: 45
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 49
+Node -1- Msg Nr: 46
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 47
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -75
+Psize_byte: 49
+Node -1- Msg Nr: 48
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -75
+Psize_byte: 49
+Node -1- Msg Nr: 49
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 50
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 49
+Node -1- Msg Nr: 51
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -81
+Psize_byte: 49
+Node -1- Msg Nr: 52
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 53
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 49
+Node -1- Msg Nr: 54
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -72
+Psize_byte: 49
+Node -1- Msg Nr: 55
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 49
+Node -1- Msg Nr: 56
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 49
+Node -1- Msg Nr: 57
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -72
+Psize_byte: 49
+Node -1- Msg Nr: 58
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 49
+Node -1- Msg Nr: 59
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -79
+Psize_byte: 49
+Node -1- Msg Nr: 60
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -75
+Psize_byte: 49
+Node -1- Msg Nr: 61
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 62
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 49
+Node -1- Msg Nr: 63
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -78
+Psize_byte: 49
+Node -1- Msg Nr: 64
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -75
+Psize_byte: 49
+Node -1- Msg Nr: 65
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 49
+Node -1- Msg Nr: 66
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -78
+Psize_byte: 49
+Node -1- Msg Nr: 67
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -75
+Psize_byte: 49
+Node -1- Msg Nr: 68
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -81
+Psize_byte: 49
+Node -1- Msg Nr: 69
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -77
+Psize_byte: 49
+Node -1- Msg Nr: 70
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -70
+Psize_byte: 49
+Node -1- Msg Nr: 71
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -78
+Psize_byte: 49
+Node -1- Msg Nr: 72
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -81
+Psize_byte: 49
+Node -1- Msg Nr: 74
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -84
+Psize_byte: 49
+Node -1- Msg Nr: 75
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -79
+Psize_byte: 49
+Node -1- Msg Nr: 76
+Temp_C: 22.60
+RH_%: 57.00
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 229
+Temp_C: 22.60
+RH_%: 57.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 230
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 231
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 232
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 233
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 234
+Temp_C: 22.70
+RH_%: 57.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 235
+Temp_C: 22.70
+RH_%: 58.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 236
+Temp_C: 22.50
+RH_%: 58.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 237
+Temp_C: 22.40
+RH_%: 59.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 238
+Temp_C: 22.40
+RH_%: 59.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 239
+Temp_C: 22.50
+RH_%: 59.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 240
+Temp_C: 22.60
+RH_%: 58.00
+
+
+RSSI_dBm: -70
+Psize_byte: 50
+Node -1- Msg Nr: 241
+Temp_C: 22.60
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 242
+Temp_C: 22.70
+RH_%: 58.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 243
+Temp_C: 22.70
+RH_%: 58.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 244
+Temp_C: 22.70
+RH_%: 58.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 245
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 246
+Temp_C: 22.70
+RH_%: 58.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 247
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 248
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 249
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 250
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 251
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 252
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 253
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 254
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 255
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 256
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 257
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 258
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 259
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 260
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 261
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 262
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 263
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 264
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 265
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 266
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 267
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 268
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 269
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 270
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 271
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 272
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 273
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 274
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 275
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 276
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -87
+Psize_byte: 50
+Node -1- Msg Nr: 277
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 278
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 279
+Temp_C: 22.80
+RH_%: 58.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 280
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 281
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 282
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 283
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 284
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 285
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 286
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 287
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 288
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 289
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 290
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 291
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 292
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 293
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 294
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 295
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 296
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 297
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 298
+Temp_C: 22.90
+RH_%: 58.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 299
+Temp_C: 23.00
+RH_%: 57.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 300
+Temp_C: 23.00
+RH_%: 57.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 301
+Temp_C: 23.00
+RH_%: 57.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 302
+Temp_C: 23.00
+RH_%: 57.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 303
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 304
+Temp_C: 23.00
+RH_%: 57.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 305
+Temp_C: 23.00
+RH_%: 57.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 306
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 324
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 325
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 326
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -87
+Psize_byte: 50
+Node -1- Msg Nr: 327
+Temp_C: 22.90
+RH_%: 57.00
+
+
+RSSI_dBm: -89
+Psize_byte: 50
+Node -1- Msg Nr: 328
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 329
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 330
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -100
+Psize_byte: 50
+Node -1- Msg Nr: 331
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 332
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 333
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 334
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -88
+Psize_byte: 50
+Node -1- Msg Nr: 335
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 340
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 341
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 342
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 343
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 344
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 345
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 346
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 347
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 348
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 349
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 350
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 351
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 352
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 353
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -90
+Psize_byte: 50
+Node -1- Msg Nr: 354
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 355
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 356
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -70
+Psize_byte: 50
+Node -1- Msg Nr: 357
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 358
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 360
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 361
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 362
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 363
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 364
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 365
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 366
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 367
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 368
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 369
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 370
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 371
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 372
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 373
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 374
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 375
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 376
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 377
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 378
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 379
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 380
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 381
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 382
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 383
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 384
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 385
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 386
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 387
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 388
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 389
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 390
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 391
+Temp_C: 23.00
+RH_%: 55.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 392
+Temp_C: 22.90
+RH_%: 55.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 393
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 394
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 395
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 396
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 397
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 398
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 399
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 400
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 401
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 402
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 403
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 404
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 405
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 406
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 407
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 408
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 409
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 410
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 411
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 412
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 413
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 414
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 415
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 416
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 417
+Temp_C: 22.90
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 418
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 419
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 420
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 421
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 422
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 423
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 424
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 425
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 426
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 427
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 428
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 429
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 430
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -94
+Psize_byte: 50
+Node -1- Msg Nr: 431
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 432
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 433
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 434
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 435
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 436
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 437
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 438
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 439
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 440
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 441
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 442
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 443
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 444
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 445
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 446
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 447
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 448
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 449
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 450
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 451
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 452
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 453
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 454
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 455
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 456
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 457
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 458
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 459
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 460
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 461
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 462
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 463
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 464
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 465
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 466
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 467
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 468
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 469
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 470
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 471
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 472
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 473
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 474
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 475
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -70
+Psize_byte: 50
+Node -1- Msg Nr: 476
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -70
+Psize_byte: 50
+Node -1- Msg Nr: 477
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 478
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 479
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 480
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 481
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 482
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 483
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 484
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 485
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 486
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -69
+Psize_byte: 50
+Node -1- Msg Nr: 487
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 488
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 489
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 490
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 491
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 492
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 493
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 494
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -70
+Psize_byte: 50
+Node -1- Msg Nr: 495
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -69
+Psize_byte: 50
+Node -1- Msg Nr: 496
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 497
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -70
+Psize_byte: 50
+Node -1- Msg Nr: 498
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 499
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 500
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 501
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 502
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 503
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 504
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 505
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 506
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 507
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 508
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 509
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 510
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 511
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 512
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 513
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 514
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 515
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 516
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 517
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 518
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 519
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 520
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 521
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 522
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 523
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 524
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 525
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 526
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 527
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 528
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 529
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 530
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 531
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 532
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 533
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 534
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 535
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 536
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -70
+Psize_byte: 50
+Node -1- Msg Nr: 537
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -69
+Psize_byte: 50
+Node -1- Msg Nr: 538
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 539
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 540
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 541
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 542
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -87
+Psize_byte: 50
+Node -1- Msg Nr: 543
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 544
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 545
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 546
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 547
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 548
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 549
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 550
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 551
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 552
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 553
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 554
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 555
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 556
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 557
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 558
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 559
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 560
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 561
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -87
+Psize_byte: 50
+Node -1- Msg Nr: 562
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 563
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 564
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 565
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 566
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 567
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 568
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 569
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 570
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 571
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 572
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 573
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 574
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 575
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -90
+Psize_byte: 50
+Node -1- Msg Nr: 576
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 577
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 578
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 579
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 580
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 581
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 582
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -89
+Psize_byte: 50
+Node -1- Msg Nr: 583
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 584
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 585
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 586
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 587
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 588
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 589
+Temp_C: 23.00
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 590
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 591
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 592
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -89
+Psize_byte: 50
+Node -1- Msg Nr: 593
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -89
+Psize_byte: 50
+Node -1- Msg Nr: 594
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 595
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -92
+Psize_byte: 50
+Node -1- Msg Nr: 596
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -94
+Psize_byte: 50
+Node -1- Msg Nr: 597
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -88
+Psize_byte: 50
+Node -1- Msg Nr: 598
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 599
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -90
+Psize_byte: 50
+Node -1- Msg Nr: 600
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 601
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 602
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -87
+Psize_byte: 50
+Node -1- Msg Nr: 603
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 604
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 605
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -89
+Psize_byte: 50
+Node -1- Msg Nr: 606
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 607
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 608
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 609
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 610
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 611
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 612
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 613
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 614
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 616
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -88
+Psize_byte: 50
+Node -1- Msg Nr: 617
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 618
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 619
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 620
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 621
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 622
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 623
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 624
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 625
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 626
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 627
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 628
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 629
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 630
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 631
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 632
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 633
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 634
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 635
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 636
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -94
+Psize_byte: 50
+Node -1- Msg Nr: 637
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 638
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 639
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 640
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 641
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 642
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 643
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -95
+Psize_byte: 50
+Node -1- Msg Nr: 644
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 645
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 646
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -88
+Psize_byte: 50
+Node -1- Msg Nr: 647
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 648
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 649
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 650
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 651
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 652
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 653
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 654
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 655
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 656
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 657
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 658
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 659
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 660
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 661
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 662
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 663
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 664
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 665
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 666
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 667
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 668
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 669
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 670
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 671
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 672
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 673
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -91
+Psize_byte: 50
+Node -1- Msg Nr: 674
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 675
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 676
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 677
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 678
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 679
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 680
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -91
+Psize_byte: 50
+Node -1- Msg Nr: 681
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 682
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 683
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 684
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 685
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 686
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 687
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 688
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 689
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 690
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 691
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 692
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -91
+Psize_byte: 50
+Node -1- Msg Nr: 693
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 694
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -92
+Psize_byte: 50
+Node -1- Msg Nr: 695
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -91
+Psize_byte: 50
+Node -1- Msg Nr: 696
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 697
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 698
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 699
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 700
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 701
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 702
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 703
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 704
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -87
+Psize_byte: 50
+Node -1- Msg Nr: 705
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 706
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 707
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 708
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 709
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 710
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 711
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 712
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 713
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 714
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 715
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 716
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 717
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 718
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 719
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 720
+Temp_C: 23.10
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 721
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -87
+Psize_byte: 50
+Node -1- Msg Nr: 722
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 723
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 724
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 725
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 726
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 727
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -94
+Psize_byte: 50
+Node -1- Msg Nr: 728
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 729
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 730
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 731
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 732
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 733
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 734
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 735
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 736
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 737
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 738
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 739
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 740
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 741
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 742
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 743
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 744
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 745
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 746
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 747
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 748
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 749
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 750
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 751
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 752
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 753
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 754
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 755
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 756
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 757
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 758
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -89
+Psize_byte: 50
+Node -1- Msg Nr: 759
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -90
+Psize_byte: 50
+Node -1- Msg Nr: 760
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 761
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 762
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 763
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 764
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 765
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 766
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 767
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 768
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 769
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 770
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 771
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -90
+Psize_byte: 50
+Node -1- Msg Nr: 772
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 773
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 774
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -88
+Psize_byte: 50
+Node -1- Msg Nr: 775
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 776
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 777
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 778
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 779
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -83
+Psize_byte: 50
+Node -1- Msg Nr: 780
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -84
+Psize_byte: 50
+Node -1- Msg Nr: 781
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -78
+Psize_byte: 50
+Node -1- Msg Nr: 782
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 783
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 784
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 785
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 786
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 787
+Temp_C: 23.30
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 788
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 789
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 790
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -85
+Psize_byte: 50
+Node -1- Msg Nr: 791
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -86
+Psize_byte: 50
+Node -1- Msg Nr: 792
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -82
+Psize_byte: 50
+Node -1- Msg Nr: 793
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -81
+Psize_byte: 50
+Node -1- Msg Nr: 794
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -87
+Psize_byte: 50
+Node -1- Msg Nr: 795
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 796
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 797
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -76
+Psize_byte: 50
+Node -1- Msg Nr: 798
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 799
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -77
+Psize_byte: 50
+Node -1- Msg Nr: 800
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 801
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -75
+Psize_byte: 50
+Node -1- Msg Nr: 802
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 803
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 804
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -74
+Psize_byte: 50
+Node -1- Msg Nr: 805
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 806
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -71
+Psize_byte: 50
+Node -1- Msg Nr: 807
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -72
+Psize_byte: 50
+Node -1- Msg Nr: 808
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -73
+Psize_byte: 50
+Node -1- Msg Nr: 809
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -68
+Psize_byte: 50
+Node -1- Msg Nr: 810
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -79
+Psize_byte: 50
+Node -1- Msg Nr: 811
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -51
+Psize_byte: 50
+Node -1- Msg Nr: 812
+Temp_C: 23.20
+RH_%: 56.00
+
+
+RSSI_dBm: -47
+Psize_byte: 50
+Node -1- Msg Nr: 813
+Temp_C: 23.40
+RH_%: 56.00
+
+
+RSSI_dBm: -52
+Psize_byte: 50
+Node -1- Msg Nr: 814
+Temp_C: 23.90
+RH_%: 55.00
+
+
+RSSI_dBm: -52
+Psize_byte: 50
+Node -1- Msg Nr: 815
+Temp_C: 24.10
+RH_%: 54.00
+
+
+RSSI_dBm: -53
+Psize_byte: 50
+Node -1- Msg Nr: 816
+Temp_C: 24.30
+RH_%: 53.00
+
+
+RSSI_dBm: -52
+Psize_byte: 50
+Node -1- Msg Nr: 817
+Temp_C: 24.40
+RH_%: 52.00
+
+
+RSSI_dBm: -49
+Psize_byte: 50
+Node -1- Msg Nr: 818
+Temp_C: 24.50
+RH_%: 52.00
+
+
+RSSI_dBm: -50
+Psize_byte: 50
+Node -1- Msg Nr: 819
+Temp_C: 24.60
+RH_%: 51.00
+
+
+RSSI_dBm: -50
+Psize_byte: 50
+Node -1- Msg Nr: 820
+Temp_C: 24.70
+RH_%: 50.00
+
+
+RSSI_dBm: -49
+Psize_byte: 50
+Node -1- Msg Nr: 821
+Temp_C: 24.80
+RH_%: 51.00
+
+
+RSSI_dBm: -49
+Psize_byte: 50
+Node -1- Msg Nr: 822
+Temp_C: 24.80
+RH_%: 51.00
+
+
+RSSI_dBm: -50
+Psize_byte: 50
+Node -1- Msg Nr: 823
+Temp_C: 24.90
+RH_%: 51.00
+
+
+RSSI_dBm: -50
+Psize_byte: 50
+Node -1- Msg Nr: 824
+Temp_C: 24.90
+RH_%: 50.00
+
+
+RSSI_dBm: -51
+Psize_byte: 50
+Node -1- Msg Nr: 825
+Temp_C: 25.00
+RH_%: 50.00
+
+
+RSSI_dBm: -50
+Psize_byte: 50
+Node -1- Msg Nr: 826
+Temp_C: 25.00
+RH_%: 49.00
+
+
+RSSI_dBm: -49
+Psize_byte: 50
+Node -1- Msg Nr: 827
+Temp_C: 25.00
+RH_%: 49.00
+
+
+RSSI_dBm: -49
+Psize_byte: 50
+Node -1- Msg Nr: 828
+Temp_C: 25.00
+RH_%: 49.00
+
+
+RSSI_dBm: -49
+Psize_byte: 50
+Node -1- Msg Nr: 829
+Temp_C: 25.00
+RH_%: 49.00
+
+
+RSSI_dBm: -48
+Psize_byte: 50
+Node -1- Msg Nr: 830
+Temp_C: 25.10
+RH_%: 49.00
+
+
+RSSI_dBm: -50
+Psize_byte: 50
+Node -1- Msg Nr: 831
+Temp_C: 25.10
+RH_%: 49.00
+
+
+RSSI_dBm: -50
+Psize_byte: 50
+Node -1- Msg Nr: 832
+Temp_C: 25.20
+RH_%: 49.00
+
+
+RSSI_dBm: -51
+Psize_byte: 50
+Node -1- Msg Nr: 833
+Temp_C: 25.20
+RH_%: 49.00
+
+
+RSSI_dBm: -51
+Psize_byte: 50
+Node -1- Msg Nr: 834
+Temp_C: 25.20
+RH_%: 48.00
+
+
+RSSI_dBm: -52
+Psize_byte: 50
+Node -1- Msg Nr: 835
+Temp_C: 25.20
+RH_%: 49.00
+
+
+RSSI_dBm: -52
+Psize_byte: 50
+Node -1- Msg Nr: 836
+Temp_C: 25.20
+RH_%: 49.00
+
+
+RSSI_dBm: -51
+Psize_byte: 50
+Node -1- Msg Nr: 837
+Temp_C: 25.20
+RH_%: 49.00
+
+
+RSSI_dBm: -52
+Psize_byte: 50
+Node -1- Msg Nr: 838
+Temp_C: 25.20
+RH_%: 48.00
+
+
+RSSI_dBm: -50
+Psize_byte: 50
+Node -1- Msg Nr: 839
+Temp_C: 25.20
+RH_%: 49.00
+
+
+RSSI_dBm: -49
+Psize_byte: 50
+Node -1- Msg Nr: 840
+Temp_C: 25.20
+RH_%: 49.00
+
+
+RSSI_dBm: -50
+Psize_byte: 50
+Node -1- Msg Nr: 841
+Temp_C: 25.30
+RH_%: 49.00
+
+
+RSSI_dBm: -51
+Psize_byte: 50
+Node -1- Msg Nr: 842
+Temp_C: 25.30
+RH_%: 49.00
+
+
+RSSI_dBm: -55
+Psize_byte: 50
+Node -1- Msg Nr: 843
+Temp_C: 25.40
+RH_%: 49.00
+
+
+RSSI_dBm: -56
+Psize_byte: 50
+Node -1- Msg Nr: 844
+Temp_C: 25.40
+RH_%: 48.00
+
+
+RSSI_dBm: -53
+Psize_byte: 50
+Node -1- Msg Nr: 845
+Temp_C: 25.40
+RH_%: 48.00
+
+
+RSSI_dBm: -53
+Psize_byte: 50
+Node -1- Msg Nr: 846
+Temp_C: 25.40
+RH_%: 48.00
+
+
+RSSI_dBm: -52
+Psize_byte: 50
+Node -1- Msg Nr: 847
+Temp_C: 25.40
+RH_%: 48.00
+
+
+RSSI_dBm: -52
+Psize_byte: 50
+Node -1- Msg Nr: 848
+Temp_C: 25.40
+RH_%: 48.00
+
+
+RSSI_dBm: -53
+Psize_byte: 50
+Node -1- Msg Nr: 849
+Temp_C: 25.40
+RH_%: 48.00
+
+
+RSSI_dBm: -58
+Psize_byte: 50
+Node -1- Msg Nr: 850
+Temp_C: 25.40
+RH_%: 49.00
+
+
+
+
+
+
+
