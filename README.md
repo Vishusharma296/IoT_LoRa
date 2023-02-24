@@ -1,6 +1,10 @@
 # IoT_LoRa
-LoRa IoT Public repository for MCU code in C++ (Firmware), Data analysis code in python.
+This repository contains:
 
-Contains C++ codes written using arduino sketches written for transmission and reception of sensor data via various LoRa developmentb boards. 
-Contains python Code for data analysis using python 3 and jupyter notebooks, 
-Contains diagrams for Hardware setup and description of experiments.
+- C++ files for SoC firmware used for LoRa Nodes. 
+- Recorded data files
+- Data analysis code in python with Jupyter Notebooks.
+- Diagrams for Hardware setup and description of experiments.
+
+C++ codes are written using arduino framework for transmission and reception of sensor data via Heltec Lora ESP32 development boards. 
+
